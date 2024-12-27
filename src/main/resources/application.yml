@@ -1,4 +1,4 @@
 
 
 midato:
-  suvalor: "VALOR XD"
+  suvalor: ${COSA} "VALOR XD"
